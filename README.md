@@ -25,5 +25,5 @@ Node.js
 </br>
 
 <h3>Command</h3>
-$live-server todo_application
+$live-server ToDoApplication
 </br>

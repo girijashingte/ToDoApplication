@@ -1,5 +1,4 @@
 <h3>ToDo Application</h3>
-<br>
 A basic To-do application using Javascript and HTML
 <br>
 
